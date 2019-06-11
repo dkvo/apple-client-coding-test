@@ -1,0 +1,44 @@
+.App {
+  color: white;
+}
+
+.myList,
+.recommendations,
+.footer {
+  margin: 1rem 0 1rem 1rem;
+}
+.movieCard {
+  display: inline-block;
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+}
+
+.recommendations {
+  margin-bottom: 2rem;
+}
+
+.btn-add,
+.btn-remove {
+  font-size: 1rem;
+  font-weight: 500;
+  width: 100%;
+  color: white;
+  border: none;
+  border-radius: 0.1rem;
+}
+
+.btn-add {
+  background: #008cba;
+}
+
+.btn-remove {
+  background: #e50914;
+}
+
+.footer {
+  margin-top: 2rem;
+}
+
+hr {
+  font-weight: thin;
+}
